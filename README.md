@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davidantasf, I'm 16 years old and I born in Brazil
 - 👀 I’m interested in learn many differents programming languages
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently making games in C#
+- 💞️ I’m looking to collaborate on game dev, using Unity
 - 📫 How to reach me:
 - Discord: Pingo, #1923
 - Instagram: davi_dantas_freire
